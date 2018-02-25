@@ -2,6 +2,11 @@
 title: "Our Services"
 date: "2016-05-05T21:48:51-07:00"
 ---
+<div id="widerimg" align="center">
+   <img src="/images/4 service.jpg" align="middle" height="auto" width="700">
+   <br/>
+</div>
+  
 Our mission is to provide solutions to problems that no one else can. Our passion and knowledge is your resource to achieve modern economic success as a high performance business.
 
 Ideas – good ideas are scarce, even in the most innovative of businesses. We help our clients generate and implement truly creative, valuable solutions. Our solutions are the result of a thorough analysis of our clients’ products and services. Our business changing ideas will address issues such as value design, strategy, management, motivation and opportunities for new business product lines and thinking. TLC invests in critical research that provides us with unique insights into long term trends and cycles. To predict the future is to be prepared.

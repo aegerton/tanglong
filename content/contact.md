@@ -2,6 +2,10 @@
 title: "Contact"
 date: "2016-05-05T21:48:51-07:00"
 ---
+<div id="widerimg" align="center">
+   <img src="/images/5 contact.jpg" align="middle" height="auto" width="700">
+   <br/>
+</div>
 ## ANTHONY EGERTON
 Anthony (Tony) Egerton (<tony@tanglong.com.sg>) has over 30 years’ experience in finance and insurance. He started his career working as a broker of major oil company programmes in the London insurance market. He has been an underwriter in the alternative risk transfer (‘ART’) sector and, after heading up the Lloyd’s specialist insurance market in Asia, was, until recently, responsible for building a very successful regional affinity practice for Jardine Lloyd Thompson Asia.
 
