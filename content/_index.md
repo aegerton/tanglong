@@ -6,7 +6,7 @@ disable_highlight: true
 ---
 
 <div id="widerimg" align="center">
-   <img src="/images/DSC_0103_edited-2.jpg" align="middle" height="auto" width="550">
+   <img src="/images/DSC_0103_edited-2.jpg" align="middle" height="auto" width="640">
    <br/>
 <strong> Advisory |  Analysis  |  Strategy </strong>
 </div>
