@@ -26,7 +26,7 @@ TLC has an affinity for, and understanding of, the challenges facing growing bus
 
 Our people have a track record in facilitating investor access to business opportunities in Europe and Asia; specifically the markets of Greater China, ASEAN and North Asia. 
 
-We believe that simplicity of execution is a virtue. Maintaining and enhancing our reputation is fundamental to TLC's business philosophy. With a corporate mantra of "tell it as it is" is, we are proud to deliver with passion and quality.
+We believe that simplicity of execution is a virtue. Maintaining and enhancing our reputation is fundamental to TLC's business philosophy. With a corporate mantra of "tell it as it is", we are proud to deliver with passion and quality.
 
 
 This website was developed using the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
