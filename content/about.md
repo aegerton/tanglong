@@ -2,8 +2,8 @@
 title: "About Us"
 date: "2016-05-05T21:48:51-07:00"
 ---
-<div id="widerimg" align="center">
-   <img src="/images/1 gateway to asia.jpg" align="middle" height="auto" width="700">
+<div align="center" style="position:static; height: 100%; width: 100%;">
+   <img src="/images/1 gateway to asia.jpg" style="width: 80%; max-width: 300px;">
    <br/>
 </div>
 
