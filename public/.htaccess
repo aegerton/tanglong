@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /tanglong/static/.htpasswd  
+require valid-user
