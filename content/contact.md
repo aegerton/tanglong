@@ -4,7 +4,7 @@ date: "2016-05-05T21:48:51-07:00"
 ---
   
 <div align="center" style="position:static; height: 100%; width: 100%;">
-   <img src="/images/5 contact.jpg" style="width: 100%; max-width: 600px;">
+   <img src="/images/DSC_6599x.jpg" style="width: 100%; max-width: 600px;">
    <br/>
 </div>
 
@@ -15,8 +15,8 @@ His extensive knowledge of the region stretches back to 1998 when he first moved
 
 Tony has a Master’s Degree in Economics from Cambridge University, holds a MBA from the London Business School and is an Associate of the Chartered Insurance Institute. A Director and Shareholder of several SMEs in the region, he is also a Certified Executive Coach.  He has been appointed to the Labuan IBFC's Panel of International Specialists since 2015.
 
-## Address
-TANG LONG CONSULTING  
+# Address
+## TANG LONG CONSULTING  
 16 Raffles Quay #35-01B   
 Hong Leong Building   
 Singapore  
