@@ -22,7 +22,7 @@ TLC's Principals established a highly successful structured finance operation in
 ## DEDICATED TO SUCCESS
 We build empathy with our clients and their business environment. Our experience in starting and building businesses, especially in the post-Asian Financial Crisis era, is first hand. 
 
-TLC has an affinity for, and understanding of, the challenges facing growing businesses in today's Asia. In building a business, we take the long term perspective. Whilst all stakeholder interests need to be aligned strategically and structurally, we also address the important and key cultural issues. 
+TLC has a clear affinity for, and deep understanding of, the challenges facing growing businesses in today's Asia. In building a business, we take the long term perspective. Whilst all stakeholder interests need to be aligned strategically and structurally, we also address the important and key cultural issues. 
 
 Our people have a track record in facilitating investor access to business opportunities in Europe and Asia; specifically the markets of Greater China, ASEAN and North Asia. 
 
