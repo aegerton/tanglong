@@ -3,20 +3,20 @@ title: "About Us"
 date: "2016-05-05T21:48:51-07:00"
 ---
 <div align="center" style="position:static; height: 100%; width: 100%;">
-   <img src="/images/1 gateway to asia.jpg" style="width: 80%; max-width: 300px;">
+   <img src="/images/1 gateway to asia.jpg" style="width: 100%; max-width: 600px;">
    <br/>
 </div>
 
 ## GATEWAY TO ASIA
 Tang Long Consulting is an independent advisory firm that addresses the demand for specialist strategy consulting from mid-market companies across Asia. Committed to the region, TLC looks to transform businesses and empower management teams to achieve their vision.
-<div id="widerimg" align="center">
-   <img src="/images/2 localized experience.jpg" align="middle" height="auto" width="700">
+<div align="center" style="position:static; height: 100%; width: 100%;">
+   <img src="/images/2 localized experience.jpg" style="width: 100%; max-width: 600px;">
    <br/>
 </div>
 ## LOCALISED EXPERIENCE
 TLC's Principals established a highly successful structured finance operation in Hong Kong in the aftermath of the Asian Financial Crisis. Through practical experience, we understand the challenges of growing a business under difficult market conditions and place strong emphasis on ensuring that our clients secure the sound financial footing necessary to achieve their goals.
-<div id="widerimg" align="center">
-   <img src="/images/3 dedicated to success.jpg" align="middle" height="auto" width="700">
+<div align="center" style="position:static; height: 100%; width: 100%;">
+   <img src="/images/3 dedicated to success.jpg" style="width: 100%; max-width: 600px;">
    <br/>
 </div>
 ## DEDICATED TO SUCCESS

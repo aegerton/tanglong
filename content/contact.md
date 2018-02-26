@@ -2,8 +2,8 @@
 title: "Contact"
 date: "2016-05-05T21:48:51-07:00"
 ---
-<div id="widerimg" align="center">
-   <img src="/images/5 contact.jpg" align="middle" height="auto" width="700">
+<div align="center" style="position:static; height: 100%; width: 100%;">
+   <img src="/images/5 contact.jpg" style="width: 100%; max-width: 600px;">
    <br/>
 </div>
 ## ANTHONY EGERTON

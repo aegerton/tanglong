@@ -5,7 +5,7 @@ disable_mathjax: true
 disable_highlight: true
 ---
 <div align="center" style="position:static; height: 100%; width: 100%;">
-   <img src="/images/DSC_0547x.jpg" style="width: 80%; max-width: 600px;">
+   <img src="/images/DSC_0547x.jpg" style="width: 100%; max-width: 600px;">
    <br/>
 </div>
 
